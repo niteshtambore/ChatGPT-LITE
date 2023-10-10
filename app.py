@@ -21,6 +21,7 @@ st.set_page_config(page_title="Chat GPT Lite", page_icon="💻")
 st.markdown("<h1 style='text-align:center;'>How can I assist you.?</h1>",
             unsafe_allow_html=True)
 
+
 st.sidebar.title("😎")
 st.session_state['API_Key'] = st.sidebar.text_input(
     "What's your API Key..?", type="password")
