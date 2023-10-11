@@ -14,7 +14,7 @@ Step 4 : A new window will get open in browser, Enter Your API key in the sideba
 
 Step 5 : Now you can ask any questions to chat bot, and fulfill your cuoricity
 
-**Note : You should Python installed on your Machine**
+**Note : You should have Python installed on your System**
 
 
 ![image](https://github.com/niteshtambore/ChatGPT-LITE/assets/98801322/b8edcced-9fe4-461b-8aea-c23451baf3d5)
